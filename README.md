@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm VISHNU S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate problem solving and frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNuZWx1bmliNHp0Z3N4dGp2MmE2NmpwcjVzajBkdnR6Z3JjdHNibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu-018&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu-018" /> </p>
