@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VISHNU S</h1>
 <h3 align="center">I am a passionate problem solver and a proficient MERN stack developer with over 400+ coding problems solved. My journey in coding has equipped me with a deep understanding of algorithms, data structures, and software development principles. I enjoy building scalable, efficient web applications and constantly seek to enhance my skills through challenging projects and continuous learning.</h3>
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="vishnu-018" /> </p>
+<p align="left"> <img src="https://images.playground.com/08e480c7f70b4d598d523f709d3292ee.jpeg" alt="vishnu-018" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
